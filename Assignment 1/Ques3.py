@@ -12,24 +12,6 @@ Civil
 >>> CGPA=float(input())
 8.4
 >>> Student=[Sid,Name,Gender,Course,CGPA]
->>> print(student)
-Traceback (most recent call last):
-  File "<pyshell#6>", line 1, in <module>
-    print(student)
-NameError: name 'student' is not defined
->>> Sid=int(input())
-21102050
->>> Name=input()
-Aayush
->>> Gender=input()
-M
->>> Gender=input()
-M
->>> Course=input()
-Civil
->>> CGPA=float(input())
-8.4
->>> Student=[Sid,Name,Gender,Course,CGPA]
 >>> print(Student)
 [21102050, 'Aayush', 'M', 'Civil', 8.4]
 >>> 
